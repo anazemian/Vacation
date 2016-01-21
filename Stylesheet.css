@@ -43,8 +43,16 @@ a:hover {
   text-decoration: none;
 }
 a:visited{
-  color:red;
+  color:green;
 }
 h2 {
 font-family: fantasy;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  border: 20px, solid, white;
+  border-radius: 5px;
+
 }
