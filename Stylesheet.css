@@ -1,0 +1,50 @@
+h1{
+  text-align:center;
+  background: url(http://www.littlebaycottages.com/KEVSBEACH06.jpg);
+  background-size: cover;
+  border-radius: 50px;
+  color: white;
+  height: 250px;
+  width: auto;
+  line-height: 250px;
+  font-size: 40px;
+  text-shadow: 14px 14px black;
+
+
+}
+body{
+  background-color: #c2c2d6;
+}
+img{
+  height: 300px;
+  width: 300px;
+  border-radius: 200px;
+}
+ol {
+    width: 1600px;
+}
+li {
+  width: 600px;
+  padding-bottom: 50px;
+  list-style-type: none;
+}
+
+div {
+  width: 800px;
+  float:right;
+
+}
+.kingston {
+    font-family: serif;
+    float: right;
+}
+
+a:hover {
+  text-decoration: none;
+}
+a:visited{
+  color:red;
+}
+h2 {
+font-family: fantasy;
+}
